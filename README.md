@@ -1,4 +1,20 @@
-## Hi there 👋
+# heathlabs
+
+Systems • Security • Python
+
+Currently focused on:
+- Python development
+- Linux and networking
+- cybersecurity foundations
+- infrastructure and automation
+- AI-assisted security workflows
+
+Building:
+- development environments
+- security labs
+- automation tooling
+- practical engineering skills
+
 
 <!--
 **heath-labs/heath-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
