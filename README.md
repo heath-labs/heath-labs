@@ -1,19 +1,40 @@
-# heathlabs
+# HeathLabs
 
-Systems • Security • Python
+### We build ambitious products that make complex systems useful, understandable, and human.
 
-Currently focused on:
-- Python development
-- Linux and networking
-- cybersecurity foundations
-- infrastructure and automation
-- AI-assisted security workflows
+HeathLabs is an independent product and engineering studio based in Australia.
 
-Building:
-- development environments
-- security labs
-- automation tooling
-- practical engineering skills
+We work across software, AI, consumer products, automotive engineering, infrastructure, and the systems that connect them.
+
+## What we're building
+
+**Forge**  
+An engineering operating system for knowledge, orchestration, tooling, documentation, and AI-assisted development.
+
+**Atlas**  
+A human-centred travel platform for planning journeys, capturing experiences, and turning travel into something worth remembering.
+
+**KinStream**  
+A persistent-context companion platform built around shared experiences, projects, ideas, memories, and genuine continuity.
+
+**Lift**  
+A trust-first platform exploring a better way for people to help people tackle verified debt through transparent community support.
+
+**HeathenGarage**  
+Automotive engineering, calibration, vehicle technology, hardware, and enthusiast-focused products.
+
+## How we build
+
+- Human-first design
+- Security and privacy by default
+- Documentation as infrastructure
+- Cross-platform thinking from the beginning
+- AI as an engineering multiplier, not a substitute for engineering
+- Products designed to survive contact with the real world
+
+---
+
+**HeathLabs** — building useful things, properly.
 
 
 <!--
